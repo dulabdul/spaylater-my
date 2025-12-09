@@ -11,7 +11,7 @@ const AboutAndWhy = () => {
           </h2>
           <p className='text-lg text-gray-600 leading-relaxed'>
             <span className='font-semibold text-shopee'>
-              cashoutspaylatermy.net
+              cashoutspaylater.my
             </span>{' '}
             ialah perkhidmatan cashout/gestun profesional yang mengutamakan
             kepercayaan serta keselamatan. Kami membantu anda menukar limit
