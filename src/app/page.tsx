@@ -7,6 +7,7 @@ import Services from '@/components/sections/Services';
 import Features from '@/components/sections/Features';
 import Testimonials from '@/components/sections/Testimonials';
 import CTASection from '@/components/sections/CTASection';
+import FloatingInstagram from '@/components/layout/FloatingInstragam';
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
 
       <Footer />
       <FloatingWhatsapp />
+      <FloatingInstagram />
     </main>
   );
 }

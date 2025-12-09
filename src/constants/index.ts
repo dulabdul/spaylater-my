@@ -11,6 +11,7 @@ export const NAVIGATION_LINKS: NavLink[] = [
 ];
 
 export const WHATSAPP_URL = "https://api.whatsapp.com/send/?phone=+601172509994&text=Halo+Admin%2C+saya+nak+cashout&type=phone_number&app_absent=0";
+export const INSTAGRAM_URL = "https://www.instagram.com/cashoutby.sakinah?igsh=OWRrbWVmNWF6c3Bs";
 
 export const HERO_CONTENT: HeroContent = {
   headline: "Tukar Limit ShopeePay Later Anda Jadi Tunai Dalam Beberapa Minit",
