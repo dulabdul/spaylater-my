@@ -13,12 +13,14 @@ const AboutAndWhy = () => {
             <span className='font-semibold text-shopee'>
               cashoutspaylater.my
             </span>{' '}
-            ialah perkhidmatan cashout/gestun profesional yang mengutamakan
-            kepercayaan serta keselamatan. Kami membantu anda menukar limit
-            PayLater kepada wang tunai dengan proses yang sangat pantas dan
-            tanpa langkah rumit. Dengan sokongan CS yang responsif dan aliran
-            kerja yang jelas, pengalaman anda akan menjadi lebih mudah, selesa,
-            dan terjamin.
+            Perkhidmatan Pencairan Wang dari Platform PayLater dengan Mudah dan
+            Cepat bersama Cashout SPayLater! Adakah anda mencari cara yang mudah
+            dan cepat untuk mendapatkan wang tunai daripada had SPayLater atau
+            Boost PayLater anda? Cashout SPayLater adalah penyelesaian terbaik
+            untuk anda! Kami menawarkan perkhidmatan yang pantas, selamat, dan
+            berbaloi untuk memenuhi keperluan kecemasan atau kewangan anda.
+            Dengan proses yang mudah dan telus, anda boleh menikmati wang tunai
+            segera daripada platform SPayLater dan Boost PayLater anda.
           </p>
         </div>
 
@@ -28,13 +30,13 @@ const AboutAndWhy = () => {
             Why Choose Us
           </h3>
           <p className='text-gray-700 text-center leading-relaxed'>
-            Dengan memilih perkhidmatan kami, anda akan mendapat pengalaman
-            cashout yang cepat, selamat, dan tanpa sebarang kesulitan. Kami
-            faham bahawa keperluan wang segera tidak boleh ditangguh, sebab itu
-            setiap proses kami direka secepat dan seefisien mungkin. Dengan
-            reputasi yang dipercayai, sokongan pasukan profesional, serta sistem
-            yang selamat, kami memastikan pencairan limit anda berjalan lancar
-            dari awal hingga akhir.
+            Memilih perkhidmatan kami bermaksud anda mengutamakan kepantasan,
+            keselamatan dan kemudahan. Kami memahami bahawa keperluan dana yang
+            mendesak tidak boleh ditangguhkan, sebab itu seluruh proses kami
+            direka agar seefisien mungkin. Dengan reputasi yang boleh
+            dipercayai, sokongan profesional serta sistem yang terbukti selamat,
+            kami memastikan pengalaman cashout anda berjalan lancar dari awal
+            hingga akhir.
           </p>
         </div>
       </div>

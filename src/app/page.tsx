@@ -23,7 +23,7 @@ export default function Home() {
 
       <Footer />
       <FloatingWhatsapp />
-      <FloatingInstagram />
+      {/* <FloatingInstagram /> */}
     </main>
   );
 }

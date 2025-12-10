@@ -10,37 +10,37 @@ export const NAVIGATION_LINKS: NavLink[] = [
   { href: "#contact", label: "Kontak" },
 ];
 
-export const WHATSAPP_URL = "https://api.whatsapp.com/send/?phone=+601172509994&text=Halo+Admin%2C+saya+nak+cashout&type=phone_number&app_absent=0";
+export const WHATSAPP_URL = "https://api.whatsapp.com/send/?phone=+601124194932&text=Halo+Admin%2C+saya+nak+cashout&type=phone_number&app_absent=0";
 export const INSTAGRAM_URL = "https://www.instagram.com/cashoutby.sakinah?igsh=OWRrbWVmNWF6c3Bs";
 
 export const HERO_CONTENT: HeroContent = {
-  headline: "Tukar Limit ShopeePay Later Anda Jadi Tunai Dalam Beberapa Minit",
-  description: "Perlu wang segera tanpa proses yang panjang? Kami sedia membantu anda mencairkan limit SPayLater, Boost PayFlex, dan Grab PayLater dengan cara yang selamat, cepat, dan telus.",
+  headline: "SPAYLATER BOOSTPAYFLEX",
+  description: "CASHOUT KILAT, TAK PERLU MENUNGGU! Ada limit PayLater dalam SPayLater, Boost, dan Grab? Nak tukar jadi tunai?",
   cta: "Cairkan Sekarang!"
 };
 
 export const SERVICES: ServiceItem[] = [
   {
     title: "ShopeePay Later (SPayLater)",
-    desc: "Cairkan limit SPayLater anda pada bila-bila masa dengan proses ringkas serta panduan daripada pasukan berpengalaman."
+    desc: "Cairkan limit SPayLater anda pada bila-bila masa dengan proses yang pantas serta panduan lengkap daripada pasukan kami."
   },
   {
     title: "Boost PayFlex",
-    desc: "Tukar limit Boost PayFlex anda kepada tunai dengan sistem yang selamat dan efisien."
+    desc: "Tukar limit Boost PayFlex anda kepada wang tunai dengan cara yang selamat dan efisien."
   },
   {
     title: "Grab PayLater",
-    desc: "Pencairan limit Grab PayLater tanpa kerenah, tanpa menunggu lama, dan terus diproses."
+    desc: "Nikmati perkhidmatan pencairan limit Grab PayLater tanpa sebarang halangan dan tanpa perlu menunggu lama."
   }
 ];
 
 export const FEATURES: string[] = [
-  "Proses Sangat Pantas – Tunai terus masuk dalam beberapa minit.",
-  "Selamat & Telus – Transaksi jelas tanpa caj tersembunyi.",
-  "Bimbingan Penuh – CS akan membantu hingga transaksi selesai.",
-  "Rate Mesra Pelanggan – Kadar kompetitif dan berbaloi.",
-  "Privasi Terjamin – Data anda 100% selamat dan tidak dikongsi.",
-  "Sedia 24/7 – Bantuan bila-bila masa anda perlukan."
+  "Proses Pantas – Wang cair hanya dalam beberapa minit.",
+  "Selamat & Dipercayai – Sistem transaksi yang jelas tanpa caj tersembunyi.",
+  "Panduan Langkah demi Langkah – Dibantu oleh CS sehingga transaksi berjaya.",
+  "Kadar Terbaik – Kadar yang kompetitif dan mesra pelanggan.",
+  "Privasi Terpelihara – Data anda selamat dan tidak dikongsi kepada pihak lain.",
+  "Perkhidmatan 24/7 – Kami sedia membantu pada bila-bila masa anda perlukan."
 ];
 
 export const TESTIMONIALS: TestimonialItem[] = [
