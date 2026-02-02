@@ -2,7 +2,7 @@ import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   // Ganti URL dengan domain asli Anda
-  const baseUrl = 'https://www.cashoutspaylater.my';
+  const baseUrl = 'https://www.nakcashoutservice.my.my';
 
   return [
     {

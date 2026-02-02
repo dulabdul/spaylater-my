@@ -3,7 +3,7 @@ const JsonLd = () => {
     '@context': 'https://schema.org',
     '@type': 'FinancialService',
     name: 'Cashout SPayLater Malaysia',
-    image: 'https://cashoutspaylater.my/og-image.jpg', // Ganti dengan domain asli nanti
+    image: 'https://nakcashoutservice.my.my/og-image.jpg', // Ganti dengan domain asli nanti
     description:
       'Perkhidmatan menukar limit PayLater (Shopee, Grab, Boost) kepada wang tunai segera di Malaysia.',
     address: {
@@ -17,7 +17,7 @@ const JsonLd = () => {
       latitude: 3.140853,
       longitude: 101.693207,
     },
-    url: 'https://cashoutspaylater.my',
+    url: 'https://nakcashoutservice.my.my',
     telephone: '+60123456789', // Ganti dengan nomor WA Anda (format +60)
     openingHoursSpecification: [
       {

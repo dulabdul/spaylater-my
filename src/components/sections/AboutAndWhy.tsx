@@ -11,7 +11,7 @@ const AboutAndWhy = () => {
           </h2>
           <p className='text-lg text-gray-600 leading-relaxed'>
             <span className='font-semibold text-shopee'>
-              cashoutspaylater.my
+              nakcashoutservice.my.my
             </span>{' '}
             Perkhidmatan Pencairan Wang dari Platform PayLater dengan Mudah dan
             Cepat bersama Cashout SPayLater! Adakah anda mencari cara yang mudah

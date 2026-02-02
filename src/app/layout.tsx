@@ -5,9 +5,9 @@ import JsonLd from '@/components/seo/JsonLd';
 
 const inter = Inter({ subsets: ['latin'] });
 
-// GANTI URL INI dengan domain asli Anda nanti saat sudah deploy (misal: https://cashoutspaylater.my)
+// GANTI URL INI dengan domain asli Anda nanti saat sudah deploy (misal: https://nakcashoutservice.my.my)
 const BASE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || 'https://cashoutspaylater.my';
+  process.env.NEXT_PUBLIC_SITE_URL || 'https://nakcashoutservice.my.my';
 
 export const viewport: Viewport = {
   width: 'device-width',
